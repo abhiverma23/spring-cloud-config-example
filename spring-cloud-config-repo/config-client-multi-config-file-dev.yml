@@ -11,4 +11,4 @@ spring:
   thymeleaf.cache: false
 logging.level.org.springframework.security: DEBUG
 # custom properties
-config-client2-welcome: Test1, message updated from 1 to 2
+config-client2-welcome: Test1, message updated from 2 to 3
